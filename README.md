@@ -4,7 +4,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, achievements, and interests as a Computer Science & Engineering student.
 
-🔗 **Live Demo:** ()
+🔗 **Live Demo:** (https://mrayyanhussain.github.io/portfolio-v1/)
 
 ---
 
@@ -64,7 +64,9 @@ If needed, replace it with your own file in the root directory.
    ```sh
    git clone https://github.com/mRayyanHussain/portfolio-v1.git
 
-   🌍 Deployment
+
+
+🌍 Deployment
 
 You can deploy this portfolio using:
 
